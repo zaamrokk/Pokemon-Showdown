@@ -1,0 +1,16 @@
+logs/
+.venv/
+venv/
+dist/
+.idea/
+**/actual_states/*
+**/__pycache__/*
+creds
+*.xlsx
+*.txt
+suspect_decisions.py
+fp/teams/teams
+fp/data/smogon_stats_cache
+fp/data/pkmn_sets_cache
+fp/data/local_data
+run_forever.sh
