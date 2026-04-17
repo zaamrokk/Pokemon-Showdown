@@ -11,7 +11,7 @@ Requires Python 3.11+.
 
 ### Configuration
 
-Command-line arguments are used to configure Foul Play
+Command-line arguments are used to configure Pokemon-Showdown
 
 use `python run.py --help` to see all options.
 
